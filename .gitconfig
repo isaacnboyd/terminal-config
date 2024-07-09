@@ -1,0 +1,12 @@
+[user]
+	name = 🦅 Isaac Boyd
+	email = isaacnboyd@gmail.com
+
+[core]
+	editor = vim
+
+[merge]
+	conflictstyle = diff3
+
+[diff]
+	colorMoved = default
