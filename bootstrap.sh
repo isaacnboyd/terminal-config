@@ -2,6 +2,6 @@
 
 sudo snap install glow
 
-sudo snap install glow	go --classic 
+sudo snap install go --classic 
 
 vim -E -c GoInstallBinaries -c q
