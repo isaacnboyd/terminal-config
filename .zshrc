@@ -14,6 +14,8 @@ alias ll="ls -lart"
 
 alias w="cd ~/PROJECTS/"
 
+alias h="cd ~"
+
 export EDITOR=vim
 
 # USE omzreload #
