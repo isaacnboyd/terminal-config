@@ -12,7 +12,7 @@ alias v="vim"
 
 alias ll="ls -lart"
 
-alias w="cd ~/PROJECTS/"
+alias w="cd ~/PROJECTS/ && ls -lart"
 
 alias h="cd ~"
 
